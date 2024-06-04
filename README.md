@@ -1,4 +1,4 @@
-# weatherApp
+# JavaFX weather by sulazula
 
 ## How it works
 * App works thru api from [openweather site](https://openweathermap.org)
